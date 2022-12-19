@@ -44,11 +44,11 @@ export default function Result({ result }) {
 							<div className="links">
 								<div className={result.location ? "" : "disabled"}>
 									<img src={location} alt="location icon" />
-									<h6>{result.location || "not specified"}</h6>
+									<h6>{result.location || "Not specified"}</h6>
 								</div>
 								<div className={result.twitter_username ? "" : "disabled"}>
 									<img src={twitter} alt="location icon" />
-									<h6>{result.twitter_username || "not specified"}</h6>
+									<h6>{result.twitter_username || "Not specified"}</h6>
 								</div>
 								<div className={result.html_url ? "" : "disabled"}>
 									<img src={website} alt="location icon" />
@@ -58,13 +58,13 @@ export default function Result({ result }) {
 											target="_blank"
 											rel="noreferrer"
 										>
-											{"Github" || "not specified"}
+											{"Github" || "Not specified"}
 										</a>
 									</h6>
 								</div>
 								<div className={result.company ? "" : "disabled"}>
 									<img src={work} alt="location icon" />
-									<h6>{result.company || "not specified"}</h6>
+									<h6>{result.company || "Not specified"}</h6>
 								</div>
 							</div>
 						</div>
