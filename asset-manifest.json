@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github-user-search/static/css/main.64e968ba.css",
+    "main.css": "/github-user-search/static/css/main.ee6e8de1.css",
     "main.js": "/github-user-search/static/js/main.4a3d1ebc.js",
     "static/js/787.09b773bf.chunk.js": "/github-user-search/static/js/787.09b773bf.chunk.js",
     "static/media/light.svg": "/github-user-search/static/media/light.f28a8996f9959c40bdff14d5a43c08d8.svg",
@@ -11,12 +11,12 @@
     "static/media/dark.svg": "/github-user-search/static/media/dark.cce754cec46d095fd3ce12737f38694b.svg",
     "static/media/location.svg": "/github-user-search/static/media/location.3ea5a843a7af79180315757ca41d5b67.svg",
     "static/media/search.svg": "/github-user-search/static/media/search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
-    "main.64e968ba.css.map": "/github-user-search/static/css/main.64e968ba.css.map",
+    "main.ee6e8de1.css.map": "/github-user-search/static/css/main.ee6e8de1.css.map",
     "main.4a3d1ebc.js.map": "/github-user-search/static/js/main.4a3d1ebc.js.map",
     "787.09b773bf.chunk.js.map": "/github-user-search/static/js/787.09b773bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64e968ba.css",
+    "static/css/main.ee6e8de1.css",
     "static/js/main.4a3d1ebc.js"
   ]
 }
